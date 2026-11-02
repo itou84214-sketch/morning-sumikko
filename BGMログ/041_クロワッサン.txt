@@ -1,0 +1,25 @@
+動画番号 : 041.mp4
+食べ物   : クロワッサン
+総尺     : 1:07:55（4075秒）
+==================================================
+開始       終了       曲名
+--------------------------------------------------
+0:00:00    0:03:29    Piano Steam 1.mp3
+0:03:29    0:06:16    Velvet Oatmilk 1.mp3
+0:06:16    0:09:01    Saxophone Metronome 2.mp3
+0:09:01    0:13:37    Evening Cafe Sax.mp3
+0:13:37    0:17:24    Amber Dusk 1.mp3
+0:17:24    0:20:04    Paper Cup Jazz 1.mp3
+0:20:04    0:23:43    Hazy Morning 2.mp3
+0:23:43    0:28:08    Morning Rain Jazz (1).mp3
+0:28:08    0:32:34    Juniper Rain 1.mp3
+0:32:34    0:35:32    Golden Toast 2.mp3
+0:35:32    0:40:07    Midnight Ledger 1.mp3
+0:40:07    0:42:27    Sunny Breakfast Jazz (1).mp3
+0:42:27    0:45:51    Maple Toasters 1.mp3
+0:45:51    0:51:06    Synced Sorrow 1.mp3
+0:51:06    0:55:10    Candle Smoke Sonata 1.mp3
+0:55:10    0:57:19    Sunny Breakfast 2.mp3
+0:57:19    1:00:35    Dawn Reverie.mp3
+1:00:35    1:05:14    Jade Milkshake 2.mp3
+1:05:14    1:07:55    Cinnamon Coda 2.mp3

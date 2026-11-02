@@ -1,0 +1,23 @@
+動画番号 : 042.mp4
+食べ物   : ココナッツ
+総尺     : 1:04:49（3889秒）
+==================================================
+開始       終了       曲名
+--------------------------------------------------
+0:00:00    0:03:50    Saxophone Rain 2.mp3
+0:03:50    0:06:51    Copper Staircase 2.mp3
+0:06:51    0:10:35    Saxophone Steam 1.mp3
+0:10:35    0:14:43    Velvet Rain 1.mp3
+0:14:43    0:17:02    Sunny Breakfast Jazz (1).mp3
+0:17:02    0:21:19    Rain Cafe Jazz 2.mp3
+0:21:19    0:27:08    Midnight Smoke 1.mp3
+0:27:08    0:31:48    Paper Cup Jazz 2.mp3
+0:31:48    0:37:08    Midnight Smoke 2.mp3
+0:37:08    0:41:43    Late Night Piano Bar (1).mp3
+0:41:43    0:45:16    Cinnamon Saxophone 1.mp3
+0:45:16    0:50:05    Satin Whiskey 1.mp3
+0:50:05    0:54:45    Jade Milkshake 2.mp3
+0:54:45    0:57:20    Sunny Breakfast 1.mp3
+0:57:20    1:00:30    Vinyl Raincoat 1.mp3
+1:00:30    1:04:09    Ginger Teacup 2.mp3
+1:04:09    1:04:49    雨音喫茶.mp3

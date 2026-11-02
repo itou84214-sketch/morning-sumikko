@@ -1,0 +1,25 @@
+動画番号 : 043.mp4
+食べ物   : フレンチトースト
+総尺     : 1:10:08（4208秒）
+==================================================
+開始       終了       曲名
+--------------------------------------------------
+0:00:00    0:03:09    Cinnamon Coda 1.mp3
+0:03:09    0:08:44    Synced Sorrow 2.mp3
+0:08:44    0:12:03    Vinyl Raincoat 2.mp3
+0:12:03    0:17:01    Amber Dusk 2.mp3
+0:17:01    0:21:16    Velvet Metronome 1.mp3
+0:21:16    0:25:41    Morning Rain Jazz (1).mp3
+0:25:41    0:29:27    Rain Paper Cups 1.mp3
+0:29:27    0:32:59    Cinnamon Saxophone 1.mp3
+0:32:59    0:38:19    Midnight Smoke 2.mp3
+0:38:19    0:41:09    Sunny Breakfast Jazz.mp3
+0:41:09    0:45:14    Velvet Metronome 4.mp3
+0:45:14    0:49:31    Rain Cafe Jazz 2.mp3
+0:49:31    0:53:52    Dawn Reverie 3.mp3
+0:53:52    0:58:09    Late Night Piano Bar.mp3
+0:58:09    1:01:53    Saxophone Steam 1.mp3
+1:01:53    1:05:03    Vinyl Raincoat 1.mp3
+1:05:03    1:06:03    Creamboard Sonata 2.mp3
+1:06:03    1:09:31    Rain Paper Cups 2.mp3
+1:09:31    1:10:08    Saxophone Metronome 1.mp3
